@@ -4,5 +4,5 @@ A new RSS reader project.
 
 ## Getting Started
 
-## KyawThetNaing
+## https://github.com/KyawThet-Naing/VOA_RSS_Reader
 
